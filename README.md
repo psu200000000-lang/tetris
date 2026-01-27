@@ -12,19 +12,27 @@
 
 ## 🚀 빠른 시작
 
-### 1️⃣ 설치
+### 📌 두 가지 버전 제공
+
+#### 1️⃣ 웹 버전 (브라우저)
+**가장 간단합니다!**
+- [index.html](index.html) 파일을 브라우저에서 열면 바로 실행됩니다
+- 추가 설치 불필요, 클릭만으로 게임 시작
+
+#### 2️⃣ Python 버전 (Pygame)
+**고전 테트리스 스타일**
+
+설치:
 ```bash
-git clone https://github.com/yourusername/tetris.git
-cd tetris
 pip install pygame numpy
 ```
 
-### 2️⃣ 실행
+실행:
 ```bash
 python tetris.py
 ```
 
-또는 한 줄로 설치 후 실행:
+또는 한 줄로:
 ```bash
 pip install pygame numpy && python tetris.py
 ```
