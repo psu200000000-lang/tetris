@@ -21,7 +21,7 @@
 ```bash
 python -m http.server 5500
 ```
-그 다음 브라우저에서 열기: **[http://psu200000000-lang.github.io/tetris](https://psu200000000-lang.github.io/tetris)**
+그 다음 브라우저에서 열기: **[http://goding.github.io/tetris](https://goding.github.io/tetris)**
 
 **방법 2: 파일 직접 열기**
 - [index.html](index.html) 파일을 브라우저에서 열면 바로 실행됩니다
