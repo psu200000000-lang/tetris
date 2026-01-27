@@ -2,9 +2,34 @@
 
 고전 테트리스 게임을 Python과 Pygame으로 구현한 프로젝트입니다.
 
+[![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Status](https://img.shields.io/badge/status-active-brightgreen.svg)]()
+
 ## 📸 스크린샷
 
 게임은 클래식 테트리스 스타일의 3D 입체 블록으로 구성되어 있습니다.
+
+## 🚀 빠른 시작
+
+### 1️⃣ 설치
+```bash
+git clone https://github.com/yourusername/tetris.git
+cd tetris
+pip install pygame numpy
+```
+
+### 2️⃣ 실행
+```bash
+python tetris.py
+```
+
+또는 한 줄로 설치 후 실행:
+```bash
+pip install pygame numpy && python tetris.py
+```
+
+---
 
 ## ✨ 주요 기능
 
@@ -18,6 +43,15 @@
 - **3D 입체감**: 블록에 밝은 선과 어두운 선으로 깊이감 표현
 - **일시정지 기능**: 스페이스바로 게임 일시정지
 - **빠른 낙하**: 아래 화살표 꾹 누르면 빠르게 내려감
+
+### 📦 필수 사항
+- Python 3.7+
+- pygame
+- numpy
+
+**[⬆ 위로 돌아가기](#-빠른-시작)**
+
+---
 
 ## 🎮 조작 방법
 
@@ -49,6 +83,22 @@ pip install pygame numpy
 ```bash
 python tetris.py
 ```
+
+**또는 원클릭 설치 및 실행:**
+
+```bash
+pip install pygame numpy && python tetris.py
+```
+
+---
+
+## 💡 사용 방법
+
+게임이 시작되면 자동으로 첫 번째 블록이 나타납니다. 아래 조작법을 참고하세요.
+
+**[⬆ 위로 돌아가기](#-빠른-시작)**
+
+---
 
 ## 📊 게임 정보 화면
 
